@@ -231,8 +231,7 @@
 
         {\zihao{-4}Directed by \@TutorEng}
     \end{center}
-
-    \zihao{3}\tnr{}\textbf{Abstract}\zihao{4}\tnr{}
+    \zihao{3}\textbf{Abstract}\zihao{4}
 }{
     \vspace{1cm}
     \zihao{4}\heiti{}\textbf{Keywords}~~\zihao{-4}\songti{}\@KeywordsEng
